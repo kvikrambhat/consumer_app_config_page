@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src",
+      "paths": {
+        "@components/*": ["../node_modules/@bit-local-scope/components/*"]
+      }
+    }
+  }
+  
