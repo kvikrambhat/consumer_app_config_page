@@ -1,3 +1,6 @@
 [submodule "component-library"]
 	path = component-library
 	url = https://github.com/kvikrambhat/component-library.git
+[submodule "src/component-library"]
+	path = src/component-library
+	url = https://github.com/kvikrambhat/component-library.git
